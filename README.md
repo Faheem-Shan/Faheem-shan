@@ -73,7 +73,7 @@ Scrap management platform connecting users, agencies, and admins.
 
 ## 🌐 Connect with Me
 
-📧 **Email:** faheemka246@gmail.com
+📧 **Email:** faheemka246@gmail.com <br>
 💼 **LinkedIn:** [linkedin.com/in/faheem-shan](https://www.linkedin.com/in/faheem-shan/)
 💻 **GitHub:** [github.com/Faheem-Shan](https://github.com/Faheem-Shan)
 🌐 **Portfolio:** [faheem-shan.github.io/PORTFOLIO_](https://faheem-shan.github.io/PORTFOLIO_/)
