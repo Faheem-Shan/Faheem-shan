@@ -1,5 +1,3 @@
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Faheem-Shan&show_icons=true&theme=radical&hide_border=true" width="48%" />
-
 # Hi, I'm Faheem Shan K.A. 👋
 
 ### 🚀 Python Backend Developer | Django | FastAPI | React.js | MCA Graduate
