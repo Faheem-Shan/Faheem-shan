@@ -67,7 +67,7 @@ Scrap management platform connecting users, agencies, and admins.
 
 ## 📖 Currently Learning
 
-`Kubernetes` `Terraform` `Jenkins` `Azure` `LangChain` `RAG Applications` `AI Agents` `CI/CD Best Practices`
+`Jenkins` `Azure` `LangChain` `RAG Applications` `AI Agents` `CI/CD Best Practices`
 
 ---
 
