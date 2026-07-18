@@ -83,9 +83,17 @@ Scrap management platform connecting users, agencies, and admins.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Faheem-Shan&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Faheem-Shan&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faheem-Shan&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
 <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Faheem-Shan&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Faheem-Shan&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>n="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faheem-Shan&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
