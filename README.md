@@ -1,1 +1,96 @@
-# Hi, I'm Faheem Shan K.A. 👋 ### 🐍 Full Stack Developer | Python (Django) | MCA Graduate I am a highly motivated **Full Stack Developer** focused on building efficient, scalable, and user-friendly web applications. As a recent **MCA Graduate**, I bring a strong foundation in computer science principles and specialized skills in the **Python/Django ecosystem** and modern frontend development. --- ### 🔥 My Technology Stack I primarily work with the **Python/Django stack** and related tools. I am always eager to learn and integrate new technologies. | Category | Key Technologies | | :--- | :--- | | **Backend** | **Python**, **Django**, Django REST Framework (DRF) | | **Frontend** | **HTML5**, **CSS3**, **JavaScript (ES6+)**, React.js (Learning/Familiar) | | **Database** | **PostgreSQL/MySQL (SQL)**, MongoDB | | **Tools** | Git/GitHub, VS Code, CI/CD Concepts | ➡️ **Skills at a Glance:** [![My Skills](https://skillicons.dev/icons?i=python,django,sqlite,html,css,js,react,mongodb,git)](https://skillicons.dev) --- ### 💡 Highlighted Projects Here are a few repositories that showcase my skills and problem-solving abilities: * **[Faheem-Shan/TALENT_TRACKING]** - **Talent Tracking System:** A Python-backend web application using basic **Machine Learning/NLP** for job matching. Implemented frontend with HTML/CSS/JS for better candidate-job suitability analysis. --- ### 🌐 Let's Connect! I am actively seeking challenging **Full Stack Developer** roles where I can leverage my Python and Django expertise. * **LinkedIn:** [Your LinkedIn Profile Link (e.g., https://www.linkedin.com/in/faheem-shan/)] * **GitHub:** [Faheem-Shan](https://github.com/Faheem-Shan) * **Collaboration:** I’m looking to collaborate on open-source projects using **Python/Django** or **React**. --- <p align="center">     <img src="https://github-readme-stats.vercel.app/api?username=Faheem-Shan&show_icons=true&theme=radical" alt="Faheem Shan's GitHub Stats" /> </p>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Faheem-Shan&show_icons=true&theme=radical&hide_border=true" width="48%" />
+
+# Hi, I'm Faheem Shan K.A. 👋
+
+### 🚀 Python Backend Developer | Django | FastAPI | React.js | MCA Graduate
+
+I am an MCA Graduate and a passionate **Python Backend Developer** with hands-on
+experience building scalable web applications using **Python, Django, FastAPI,
+and React.js**. Through my internship and personal projects I've worked on
+REST APIs, authentication, payment gateway integration, Docker, AWS deployment,
+and AI-powered applications. I enjoy solving real-world problems, writing
+clean code, and continuously learning new technologies.
+
+<br clear="left"/>
+
+---
+
+## 💻 Tech Stack
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | Python, JavaScript (ES6+), HTML5, CSS3 |
+| **Backend** | Django, Django REST Framework (DRF), FastAPI |
+| **Frontend** | React.js, HTML5, CSS3, JavaScript |
+| **Database** | PostgreSQL, MySQL, MongoDB |
+| **Authentication** | JWT Authentication |
+| **APIs** | REST APIs, Razorpay API |
+| **Async & Messaging** | Celery, Redis |
+| **DevOps & Cloud** | Docker, Docker Compose, AWS EC2, GitHub Actions (Basics), Nginx (Basics), Gunicorn |
+| **AI / ML** | NLP, Pandas, NumPy, Scikit-learn (Basics) |
+| **Web Scraping & Automation** | Selenium, BeautifulSoup |
+| **Tools** | Git, GitHub, Postman, VS Code |
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,react,js,html,css,postgres,mysql,mongodb,docker,aws,redis,git,github,vscode" alt="My Skills" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+### 🎯 [Talent Tracking System](https://github.com/Faheem-Shan/TALENT_TRACKING)
+AI-powered recruitment platform for candidate–job suitability analysis.
+- Resume parsing using NLP
+- Automated resume-to-job matching
+- Built with Django + PostgreSQL
+- REST APIs for core functionality
+
+### 📚 Online Bookstore
+Full-stack e-commerce style bookstore application.
+- Django REST Framework + React.js
+- JWT Authentication
+- Razorpay payment gateway integration
+- PostgreSQL database
+
+### 💰 FinAI
+Multi-tenant finance management system.
+- Django REST Framework + React.js
+- PostgreSQL, Celery + Redis for async tasks
+- Dockerized and deployed on AWS
+
+### ♻️ ScrapCycle
+Scrap management platform connecting users, agencies, and admins.
+- Separate user, agency, and admin modules
+- REST APIs
+- Structured database management
+
+---
+
+## 📖 Currently Learning
+
+`Kubernetes` `Terraform` `Jenkins` `Azure` `LangChain` `RAG Applications` `AI Agents` `CI/CD Best Practices`
+
+---
+
+## 🌐 Connect with Me
+
+📧 **Email:** faheemka246@gmail.com
+💼 **LinkedIn:** [linkedin.com/in/faheem-shan](https://www.linkedin.com/in/faheem-shan/)
+💻 **GitHub:** [github.com/Faheem-Shan](https://github.com/Faheem-Shan)
+🌐 **Portfolio:** [faheem-shan.github.io/PORTFOLIO_](https://faheem-shan.github.io/PORTFOLIO_/)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Faheem-Shan&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faheem-Shan&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+</p>
+
+---
+
+<p align="center"><i>Thanks for visiting my profile! Feel free to connect and collaborate 🚀</i></p>
