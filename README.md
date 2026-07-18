@@ -95,7 +95,7 @@ Scrap management platform connecting users, agencies, and admins.
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Faheem-Shan&show_icons=true&theme=radical" />
+  <img src="https://raw.githubusercontent.com/Faheem-Shan/Faheem-Shan/output/github-contribution-grid-snake.svg" />
 </p>
 ---
 
