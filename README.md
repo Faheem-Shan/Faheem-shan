@@ -79,12 +79,14 @@ Scrap management platform connecting users, agencies, and admins.
 🌐 **Portfolio:** [faheem-shan.github.io/PORTFOLIO_](https://faheem-shan.github.io/PORTFOLIO_/)
 
 ---
+
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Faheem-Shan&show_icons=true&theme=radical&hide_border=true" alt="Faheem Shan's GitHub Stats" />
 </p>
 
-## 📊 GitHub Stats
-<p align="center">     <img src="https://github-readme-stats.vercel.app/api?username=Faheem-Shan&show_icons=true&theme=radical" alt="Faheem Shan's GitHub Stats" /> </p>ithub-readme-stats.vercel.app/api/top-langs/?username=Faheem-Shan&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faheem-Shan&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 ---
