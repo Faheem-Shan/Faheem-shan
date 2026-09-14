@@ -94,9 +94,9 @@ clean code, and continuously learning new technologies.
 | Web Scraping & Automation | Selenium, BeautifulSoup |
 | Tools | Git, GitHub, Postman, VS Code |
 
-<p align="left">
+<!-- <p align="left">
   <img src="https://skillicons.dev/icons?i=python,django,fastapi,react,js,html,css,postgres,mysql,mongodb,docker,aws,redis,git,github,vscode" alt="My Skills" />
-</p>
+</p> -->
 
 ---
 
