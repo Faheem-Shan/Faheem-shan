@@ -65,56 +65,20 @@ and continuously improving my skills through practical projects.
 
 ## 💻 Tech Stack
 
-<table>
-<tr>
-<td valign="top" width="50%">
-
 ### 🐍 Backend & Languages
-
-- Python
-- Django
-- Django REST Framework
-- FastAPI
-- JavaScript (ES6+)
-- HTML5 & CSS3
+`Python` `Django` `Django REST Framework` `FastAPI` `JavaScript (ES6+)` `HTML5` `CSS3`
 
 ### 🗄️ Databases & APIs
-
-- PostgreSQL
-- MySQL
-- MongoDB
-- JWT Authentication
-- REST APIs
-- Razorpay API
-
-</td>
-<td valign="top" width="50%">
+`PostgreSQL` `MySQL` `MongoDB` `JWT Authentication` `REST APIs` `Razorpay API`
 
 ### ⚛️ Frontend & Tools
-
-- React.js
-- Git & GitHub
-- Postman
-- VS Code
+`React.js` `Git & GitHub` `Postman` `VS Code`
 
 ### 🐳 DevOps & Cloud
-
-- Docker
-- Docker Compose
-- AWS EC2
-- GitHub Actions (Basics)
-- Nginx (Basics)
-- Gunicorn
-
-</td>
-</tr>
-</table>
+`Docker` `Docker Compose` `AWS EC2` `GitHub Actions (Basics)` `Nginx (Basics)` `Gunicorn`
 
 ### 🤖 AI / ML & Automation
-
 `NLP` `Pandas` `NumPy` `Scikit-learn (Basics)` `Selenium` `BeautifulSoup`
-
----
 
 ## 🚀 Featured Projects
 
