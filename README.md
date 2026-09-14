@@ -1,37 +1,34 @@
 
 <div align="left">
 
-<!-- <img align="right" src="./profile.png" width="250" hspace="15" alt="Faheem Shan"> -->
-
 <h1>Hey there, I'm Faheem Shan 👋</h1>
 
 <a href="https://github.com/Faheem-Shan">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=EF93C4&center=false&vCenter=true&width=500&lines=Python+Full+Stack+Developer;Django+%7C+FastAPI+%7C+React;AI+%26+LLM+Enthusiast;Building+Real-World+Web+Applications;Learning+%26+Building+with+AI" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=6366F1&center=false&vCenter=true&width=500&lines=Python+Full+Stack+Developer;Django+%7C+FastAPI+%7C+React;AI+%26+LLM+Enthusiast;Building+Real-World+Web+Applications;Learning+%26+Building+with+AI" alt="Typing SVG">
 </a>
 
 <p>
   <a href="https://faheem-shan-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge&logo=google-chrome&logoColor=EF93C4" alt="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-1E3A8A?style=for-the-badge&logo=google-chrome&logoColor=FFFFFF" alt="Portfolio">
   </a>
   <a href="https://github.com/Faheem-Shan">
-    <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=EF93C4" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-Profile-1E3A8A?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub">
   </a>
   <a href="https://www.linkedin.com/in/faheem-shan/">
-    <img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=EF93C4" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-1E3A8A?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn">
   </a>
   <a href="mailto:faheemka246@gmail.com">
-    <img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=EF93C4" alt="Email">
+    <img src="https://img.shields.io/badge/Email-Contact-1E3A8A?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Email">
   </a>
 </p>
 
 <p>
   <a href="https://github.com/Faheem-Shan?tab=followers">
-    <img src="https://img.shields.io/github/followers/Faheem-Shan?style=for-the-badge&label=FOLLOWERS&color=EF93C4&labelColor=161B22" alt="GitHub followers">
+    <img src="https://img.shields.io/github/followers/Faheem-Shan?style=for-the-badge&label=FOLLOWERS&color=6366F1&labelColor=161B22" alt="GitHub followers">
   </a>
   <a href="https://github.com/Faheem-Shan?tab=repositories">
-    <img src="https://img.shields.io/github/stars/Faheem-Shan?style=for-the-badge&label=STARS&color=F8BBD0&labelColor=161B22" alt="GitHub stars">
+    <img src="https://img.shields.io/github/stars/Faheem-Shan?style=for-the-badge&label=STARS&color=6366F1&labelColor=161B22" alt="GitHub stars">
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Faheem-Shan&style=for-the-badge&label=PROFILE%20VIEWS&color=FF69B4&labelColor=161B22" alt="Profile views">
 </p>
 
 <br clear="both">
@@ -136,7 +133,7 @@ and continuously improving my skills through practical projects.
 **AI-powered recruitment platform for candidate–job suitability analysis.**
 
 <a href="https://github.com/Faheem-Shan/TALENT_TRACKING">
-  <img src="https://img.shields.io/badge/View%20Repository-161B22?style=for-the-badge&logo=github&logoColor=EF93C4" alt="View Talent Tracking repository">
+  <img src="https://img.shields.io/badge/View_Repository-1E3A8A?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="View Talent Tracking repository">
 </a>
 
 - 🧠 Resume parsing using NLP
@@ -182,12 +179,12 @@ and continuously improving my skills through practical projects.
 
 <div align="left">
 
-<img src="https://img.shields.io/badge/Jenkins-161B22?style=for-the-badge&logo=jenkins&logoColor=EF93C4" alt="Jenkins">
-<img src="https://img.shields.io/badge/Azure-161B22?style=for-the-badge&logo=microsoftazure&logoColor=EF93C4" alt="Azure">
-<img src="https://img.shields.io/badge/LangChain-161B22?style=for-the-badge&logoColor=EF93C4" alt="LangChain">
-<img src="https://img.shields.io/badge/RAG_Applications-161B22?style=for-the-badge&logoColor=EF93C4" alt="RAG Applications">
-<img src="https://img.shields.io/badge/AI_Agents-161B22?style=for-the-badge&logoColor=EF93C4" alt="AI Agents">
-<img src="https://img.shields.io/badge/CI%2FCD-161B22?style=for-the-badge&logo=githubactions&logoColor=EF93C4" alt="CI/CD">
+<img src="https://img.shields.io/badge/Jenkins-1E3A8A?style=for-the-badge&logo=jenkins&logoColor=FFFFFF" alt="Jenkins">
+<img src="https://img.shields.io/badge/Azure-1E3A8A?style=for-the-badge&logo=microsoftazure&logoColor=FFFFFF" alt="Azure">
+<img src="https://img.shields.io/badge/LangChain-1E3A8A?style=for-the-badge&logoColor=FFFFFF" alt="LangChain">
+<img src="https://img.shields.io/badge/RAG_Applications-1E3A8A?style=for-the-badge&logoColor=FFFFFF" alt="RAG Applications">
+<img src="https://img.shields.io/badge/AI_Agents-1E3A8A?style=for-the-badge&logoColor=FFFFFF" alt="AI Agents">
+<img src="https://img.shields.io/badge/CI%2FCD-1E3A8A?style=for-the-badge&logo=githubactions&logoColor=FFFFFF" alt="CI/CD">
 
 </div>
 
@@ -231,7 +228,7 @@ and continuously improving my skills through practical projects.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&text=Keep%20Building%20%E2%80%A2%20Keep%20Learning%20%E2%80%A2%20Keep%20Improving&fontSize=19&fontColor=ffffff&fontAlignY=65&color=gradient&customColorList=6,12,20,24" width="100%" alt="Waving footer">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&text=Keep%20Building%20%E2%80%A2%20Keep%20Learning%20%E2%80%A2%20Keep%20Improving&fontSize=19&fontColor=ffffff&fontAlignY=65&color=gradient&customColorList=12,14,18,20" width="100%" alt="Waving footer">
 
 <br>
 
