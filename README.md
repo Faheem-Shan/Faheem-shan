@@ -1,102 +1,240 @@
-# Hi, I'm Faheem Shan K.A. 👋
 
-### 🚀 Python Backend Developer | Django | FastAPI | React.js | MCA Graduate
+<div align="left">
 
-I am an MCA Graduate and a passionate **Python Backend Developer** with hands-on
-experience building scalable web applications using **Python, Django, FastAPI,
-and React.js**. Through my internship and personal projects I've worked on
-REST APIs, authentication, payment gateway integration, Docker, AWS deployment,
-and AI-powered applications. I enjoy solving real-world problems, writing
-clean code, and continuously learning new technologies.
+<img align="right" src="./profile.png" width="250" hspace="15" alt="Faheem Shan">
 
-<br clear="left"/>
+<h1>Hey there, I'm Faheem Shan 👋</h1>
+
+<a href="https://github.com/Faheem-Shan">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=EF93C4&center=false&vCenter=true&width=500&lines=Python+Full+Stack+Developer;Django+%7C+FastAPI+%7C+React;AI+%26+LLM+Enthusiast;Building+Real-World+Web+Applications;Learning+%26+Building+with+AI" alt="Typing SVG">
+</a>
+
+<p>
+  <a href="https://faheem-shan.github.io/PORTFOLIO_/">
+    <img src="https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge&logo=google-chrome&logoColor=EF93C4" alt="Portfolio">
+  </a>
+  <a href="https://github.com/Faheem-Shan">
+    <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=EF93C4" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/faheem-shan/">
+    <img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=EF93C4" alt="LinkedIn">
+  </a>
+  <a href="mailto:faheemka246@gmail.com">
+    <img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=EF93C4" alt="Email">
+  </a>
+</p>
+
+<p>
+  <a href="https://github.com/Faheem-Shan?tab=followers">
+    <img src="https://img.shields.io/github/followers/Faheem-Shan?style=for-the-badge&label=FOLLOWERS&color=EF93C4&labelColor=161B22" alt="GitHub followers">
+  </a>
+  <a href="https://github.com/Faheem-Shan?tab=repositories">
+    <img src="https://img.shields.io/github/stars/Faheem-Shan?style=for-the-badge&label=STARS&color=F8BBD0&labelColor=161B22" alt="GitHub stars">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Faheem-Shan&style=for-the-badge&label=PROFILE%20VIEWS&color=FF69B4&labelColor=161B22" alt="Profile views">
+</p>
+
+<br clear="both">
+
+</div>
+
+---
+
+<table align="center" width="100%">
+<tr>
+<td width="65%" valign="top">
+
+## 👨‍💻 About Me
+
+I'm **Faheem Shan K.A.**, an MCA Graduate and Python Full Stack
+Developer passionate about building real-world web applications
+and AI-powered solutions.
+
+I enjoy taking ideas from **concept → development → deployment**
+and continuously improving my skills through practical projects.
+
+- 🐍 Python Backend & Full Stack Development
+- ⚡ Django, Django REST Framework & FastAPI
+- ⚛️ React.js and modern frontend development
+- 🤖 Exploring AI, LLMs, RAG & AI Agents
+- 🗄️ PostgreSQL, MySQL & MongoDB
+- 🐳 Docker, AWS & REST API development
+- 🚀 Building projects and learning new technologies
+
+> **Build things. Learn things. Keep improving.**
+
+</td>
+<td width="35%" align="center" valign="middle">
+
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,react,js,html,css,postgres,mysql,mongodb,docker,aws,redis,git,github,vscode&perline=5&theme=dark" width="100%" alt="Tech stack">
+
+</td>
+</tr>
+</table>
+
+<br>
 
 ---
 
 ## 💻 Tech Stack
 
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | Python, JavaScript (ES6+), HTML5, CSS3 |
-| **Backend** | Django, Django REST Framework (DRF), FastAPI |
-| **Frontend** | React.js, HTML5, CSS3, JavaScript |
-| **Database** | PostgreSQL, MySQL, MongoDB |
-| **Authentication** | JWT Authentication |
-| **APIs** | REST APIs, Razorpay API |
-| **Async & Messaging** | Celery, Redis |
-| **DevOps & Cloud** | Docker, Docker Compose, AWS EC2, GitHub Actions (Basics), Nginx (Basics), Gunicorn |
-| **AI / ML** | NLP, Pandas, NumPy, Scikit-learn (Basics) |
-| **Web Scraping & Automation** | Selenium, BeautifulSoup |
-| **Tools** | Git, GitHub, Postman, VS Code |
+<table>
+<tr>
+<td valign="top" width="50%">
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,react,js,html,css,postgres,mysql,mongodb,docker,aws,redis,git,github,vscode" alt="My Skills" />
-</p>
+### 🐍 Backend & Languages
+
+- Python
+- Django
+- Django REST Framework
+- FastAPI
+- JavaScript (ES6+)
+- HTML5 & CSS3
+
+### 🗄️ Databases & APIs
+
+- PostgreSQL
+- MySQL
+- MongoDB
+- JWT Authentication
+- REST APIs
+- Razorpay API
+
+</td>
+<td valign="top" width="50%">
+
+### ⚛️ Frontend & Tools
+
+- React.js
+- Git & GitHub
+- Postman
+- VS Code
+
+### 🐳 DevOps & Cloud
+
+- Docker
+- Docker Compose
+- AWS EC2
+- GitHub Actions (Basics)
+- Nginx (Basics)
+- Gunicorn
+
+</td>
+</tr>
+</table>
+
+### 🤖 AI / ML & Automation
+
+`NLP` `Pandas` `NumPy` `Scikit-learn (Basics)` `Selenium` `BeautifulSoup`
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Featured Projects
 
-### 🎯 [Talent Tracking System](https://github.com/Faheem-Shan/TALENT_TRACKING)
-AI-powered recruitment platform for candidate–job suitability analysis.
-- Resume parsing using NLP
-- Automated resume-to-job matching
-- Built with Django + PostgreSQL
-- REST APIs for core functionality
+### 🎯 Talent Tracking System
+
+**AI-powered recruitment platform for candidate–job suitability analysis.**
+
+<a href="https://github.com/Faheem-Shan/TALENT_TRACKING">
+  <img src="https://img.shields.io/badge/View%20Repository-161B22?style=for-the-badge&logo=github&logoColor=EF93C4" alt="View Talent Tracking repository">
+</a>
+
+- 🧠 Resume parsing using NLP
+- 🎯 Automated resume-to-job matching
+- 🐍 Built with Django + PostgreSQL
+- 🔌 REST APIs for core functionality
+
+---
 
 ### 📚 Online Bookstore
-Full-stack e-commerce style bookstore application.
-- Django REST Framework + React.js
-- JWT Authentication
-- Razorpay payment gateway integration
-- PostgreSQL database
+
+**Full-stack e-commerce style bookstore application.**
+
+- ⚡ Django REST Framework + React.js
+- 🔐 JWT Authentication
+- 💳 Razorpay payment gateway integration
+- 🗄️ PostgreSQL database
+
+---
 
 ### 💰 FinAI
-Multi-tenant finance management system.
-- Django REST Framework + React.js
-- PostgreSQL, Celery + Redis for async tasks
-- Dockerized and deployed on AWS
+
+**Multi-tenant finance management system.**
+
+- ⚡ Django REST Framework + React.js
+- 🗄️ PostgreSQL
+- 🔄 Celery + Redis for async tasks
+- 🐳 Dockerized and deployed on AWS
+
+---
 
 ### ♻️ ScrapCycle
-Scrap management platform connecting users, agencies, and admins.
-- Separate user, agency, and admin modules
-- REST APIs
-- Structured database management
+
+**Scrap management platform connecting users, agencies, and admins.**
+
+- 👤 Separate user, agency, and admin modules
+- 🔌 REST APIs
+- 🗄️ Structured database management
 
 ---
 
 ## 📖 Currently Learning
 
-`Jenkins` `Azure` `LangChain` `RAG Applications` `AI Agents` `CI/CD Best Practices`
+<div align="left">
+
+<img src="https://img.shields.io/badge/Jenkins-161B22?style=for-the-badge&logo=jenkins&logoColor=EF93C4" alt="Jenkins">
+<img src="https://img.shields.io/badge/Azure-161B22?style=for-the-badge&logo=microsoftazure&logoColor=EF93C4" alt="Azure">
+<img src="https://img.shields.io/badge/LangChain-161B22?style=for-the-badge&logoColor=EF93C4" alt="LangChain">
+<img src="https://img.shields.io/badge/RAG_Applications-161B22?style=for-the-badge&logoColor=EF93C4" alt="RAG Applications">
+<img src="https://img.shields.io/badge/AI_Agents-161B22?style=for-the-badge&logoColor=EF93C4" alt="AI Agents">
+<img src="https://img.shields.io/badge/CI%2FCD-161B22?style=for-the-badge&logo=githubactions&logoColor=EF93C4" alt="CI/CD">
+
+</div>
 
 ---
 
-## 🌐 Connect with Me
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Faheem-Shan/Faheem-Shan/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Faheem-Shan/Faheem-Shan/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/Faheem-Shan/Faheem-Shan/output/github-contribution-grid-snake.svg" width="90%" alt="GitHub Contribution Snake">
+</picture>
+
+</div>
+
+---
+
+## 🌐 Connect With Me
 
 <p align="left">
   <a href="mailto:faheemka246@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 
   <a href="https://www.linkedin.com/in/faheem-shan/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 
   <a href="https://github.com/Faheem-Shan">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 
   <a href="https://faheem-shan.github.io/PORTFOLIO_/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
   </a>
 </p>
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Faheem-Shan/Faheem-Shan/output/github-contribution-grid-snake.svg" />
-</p>
----
+<div align="center">
 
-<p align="center"><i>Thanks for visiting my profile! Feel free to connect and collaborate 🚀</i></p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&text=Keep%20Building%20%E2%80%A2%20Keep%20Learning%20%E2%80%A2%20Keep%20Improving&fontSize=19&fontColor=ffffff&fontAlignY=65&color=gradient&customColorList=6,12,20,24" width="100%" alt="Waving footer">
+
+<br>
+
+<sub><b>© Faheem Shan K.A.</b> · Python Full Stack Developer · Django · FastAPI · AI</sub>
+
+</div>
