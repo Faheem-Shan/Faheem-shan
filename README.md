@@ -5,9 +5,9 @@
 
 <h1>Hey there, I'm Faheem Shan 👋</h1>
 
-<a href="https://github.com/Faheem-Shan">
+<!-- <a href="https://github.com/Faheem-Shan">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=EF93C4&center=false&vCenter=true&width=500&lines=Python+Full+Stack+Developer;Django+%7C+FastAPI+%7C+React;AI+%26+LLM+Enthusiast;Building+Real-World+Web+Applications;Learning+%26+Building+with+AI" alt="Typing SVG">
-</a>
+</a> -->
 
 <p>
   <a href="https://faheem-shan-portfolio.vercel.app/">
