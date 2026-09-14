@@ -68,18 +68,17 @@ and continuously improving my skills through practical projects.
 | Category | Technologies |
 | :--- | :--- |
 | Languages | Python, JavaScript (ES6+), HTML5, CSS3 |
-| Backend | Django, Django REST Framework (DRF), FastAPI |
-| Frontend | React.js |
-| Database | PostgreSQL, MySQL, MongoDB |
+| Backend | Django, Django REST Framework (DRF), FastAPI, SQLAlchemy, Pydantic, ORM, MVT Architecture, WebSockets |
+| Frontend | React.js, Redux, Tailwind CSS, Bootstrap, Axios, Zustand |
+| Database | PostgreSQL, MySQL, MongoDB, Supabase, Alembic |
 | Authentication | JWT Authentication |
 | APIs | REST APIs, Razorpay API |
 | Async & Messaging | Celery, Redis |
-| DevOps & Cloud | Docker, Docker Compose, AWS EC2, GitHub Actions (Basics), Nginx (Basics), Gunicorn |
-| AI / ML | NLP, Pandas, NumPy, Scikit-learn (Basics) |
-| AI Workflows & LLM Orchestration | LangChain, LangGraph, n8n Automation |
-| Web Scraping & Automation | Selenium, BeautifulSoup |
+| DevOps & Cloud | Docker, Docker Compose, AWS EC2, AWS S3, GitHub Actions (Basics), Nginx (Basics), Gunicorn |
+| AI / Data | LLM Integration (Gemini, Groq), LangChain, LangGraph, RAG Pipelines, FAISS, ChromaDB, Embeddings, ETL Pipelines |
+| Data & Automation | Pandas, NumPy, Scikit-learn (Basics), Selenium, BeautifulSoup, n8n Automation |
 | Tools | Git, GitHub, Postman, VS Code |
-
+| Methodologies | Agile, Scrum, SDLC |
 ---
 
 ## 🚀 Featured Projects
