@@ -10,7 +10,7 @@
 </a>
 
 <p>
-  <a href="https://faheem-shan.github.io/PORTFOLIO_/">
+  <a href="https://faheem-shan-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge&logo=google-chrome&logoColor=EF93C4" alt="Portfolio">
   </a>
   <a href="https://github.com/Faheem-Shan">
@@ -222,7 +222,7 @@ and continuously improving my skills through practical projects.
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 
-  <a href="https://faheem-shan.github.io/PORTFOLIO_/">
+  <a href="https://faheem-shan-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
   </a>
 </p>
