@@ -148,8 +148,8 @@ and continuously improving my skills through practical projects.
 
 <img src="https://img.shields.io/badge/Jenkins-6366F1?style=for-the-badge&logo=jenkins&logoColor=FFFFFF" alt="Jenkins">
 <img src="https://img.shields.io/badge/Azure-6366F1?style=for-the-badge&logo=microsoftazure&logoColor=FFFFFF" alt="Azure">
-<img src="https://img.shields.io/badge/LangChain-6366F1?style=for-the-badge&logoColor=FFFFFF" alt="LangChain">
-<img src="https://img.shields.io/badge/RAG_Applications-6366F1?style=for-the-badge&logoColor=FFFFFF" alt="RAG Applications">
+<img src="https://img.shields.io/badge/Terraform-6366F1?style=for-the-badge&logo=terraform&logoColor=FFFFFF" alt="Terraform">
+<img src="https://img.shields.io/badge/Kubernetes-6366F1?style=for-the-badge&logo=kubernetes&logoColor=FFFFFF" alt="Kubernetes">
 <img src="https://img.shields.io/badge/AI_Agents-6366F1?style=for-the-badge&logoColor=FFFFFF" alt="AI Agents">
 <img src="https://img.shields.io/badge/CI%2FCD-6366F1?style=for-the-badge&logo=githubactions&logoColor=FFFFFF" alt="CI/CD">
 
