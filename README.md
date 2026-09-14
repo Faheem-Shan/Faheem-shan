@@ -88,7 +88,7 @@ and continuously improving my skills through practical projects.
 
 **AI-powered recruitment platform for candidate–job suitability analysis.**
 
-<a href="https://github.com/Faheem-Shan/TALENT_TRACKING">
+<a href="https://github.com/Faheem-Shan/Talent_Tracking_V2">
   <img src="https://img.shields.io/badge/View_Repository-6366F1?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="View Talent Tracking repository">
 </a>
 
@@ -96,7 +96,6 @@ and continuously improving my skills through practical projects.
 - 🎯 Automated resume-to-job matching
 - 🐍 Built with Django + PostgreSQL
 - 🔌 REST APIs for core functionality
-
 ---
 
 ### 📚 Online Bookstore
