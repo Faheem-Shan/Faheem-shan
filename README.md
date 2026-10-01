@@ -83,6 +83,27 @@ and continuously improving my skills through practical projects.
 
 ## 🚀 Featured Projects
 
+### 🧠 VoxIntel
+
+**AI-powered competitive marketing intelligence platform for analyzing competitors, websites, social media, and advertising data.**
+
+<a href="https://github.com/Adil-Aadhi/Group-project-frontent-">
+  <img src="https://img.shields.io/badge/View_Frontend-6366F1?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="View VoxIntel Frontend repository">
+</a>
+
+<a href="https://github.com/Aiman-xo/Group-project">
+  <img src="https://img.shields.io/badge/View_Backend-6366F1?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="View VoxIntel Backend repository">
+</a>
+
+- 🤖 AI-powered competitor and marketing analysis
+- ⚡ FastAPI + React.js
+- 🌐 Web crawling, ETL, and competitor intelligence
+- 📊 Instagram and Google Ads analysis
+- ☁️ AWS S3 for data storage
+- 🧠 Gemini-powered insights and recommendations
+- 🏢 Multi-tenant SaaS architecture
+---
+  
 ### 🎯 Talent Tracking System
 
 **AI-powered recruitment platform for candidate–job suitability analysis.**
@@ -140,6 +161,7 @@ and continuously improving my skills through practical projects.
 - 🗄️ Structured database management
 
 ---
+
 
 ## 📖 Currently Learning
 
