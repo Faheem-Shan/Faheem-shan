@@ -156,9 +156,18 @@ and continuously improving my skills through practical projects.
   <img src="https://img.shields.io/badge/View_Repository-6366F1?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="View ScrapCycle repository">
 </a>
 
-- 👤 Separate user, agency, and admin modules
-- 🔌 REST APIs
-- 🗄️ Structured database management
+- 👤 Role-based User, Agency, and Admin modules
+- 🔐 JWT authentication and authorization
+- 🔌 RESTful APIs with Django REST Framework
+- 🗄️ PostgreSQL database management
+- ♻️ Scrap marketplace and pickup management
+- 📍 Location-based agency discovery
+- 🔔 Real-time notifications with WebSockets
+- ⚡ Celery + Redis for background tasks
+- 🤖 Gemini + LangGraph + RAG-powered chatbot
+- 🔎 FAISS semantic search
+- 📊 Analytics, complaints, feedback, and activity logs
+- 📄 PDF report generation
 
 ---
 
